@@ -9,8 +9,6 @@
 
 - I am still learing at **somewhere**
 
-- If wanna see my portofolio [vinitka.wordpress.com](vinitka.wordpress.com)
-
 - You can email me **vinitka@proton.me**
 
 <h3 align="left">Connect with me:</h3>
