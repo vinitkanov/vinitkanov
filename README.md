@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitkanov" alt="vinitkanov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/plentyofloves" target="blank"><img src="https://img.shields.io/twitter/follow/plentyofloves?logo=twitter&style=for-the-badge" alt="plentyofloves" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alonevinitka" target="blank"><img src="https://img.shields.io/twitter/follow/plentyofloves?logo=twitter&style=for-the-badge" alt="alonevinitka" /></a> </p>
 
-- I am still learing at **somewhere**
 
 - You can email me **vinitka@proton.me**
 
