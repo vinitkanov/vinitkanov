@@ -25,4 +25,4 @@ Alternative  ➜  vinitka@proton.me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitkanov&show_icons=true&locale=en" alt="vinitkanov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitkanov&" alt="vinitkanov" /></p>
+
