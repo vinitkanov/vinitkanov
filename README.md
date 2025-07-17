@@ -16,13 +16,6 @@ Main e-Mail ➜  vinitka@duck.com
 
 Alternative  ➜  vinitka@proton.me
 
-## Social Media ✦︎
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinitkasthetics)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitkanov&show_icons=true&locale=en&layout=compact" alt="vinitkanov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitkanov&show_icons=true&locale=en" alt="vinitkanov" /></p>
 
 
