@@ -9,8 +9,7 @@ I am not developer btw....
 ## Contact Person >ᴗ<
 
 If you wanna talk to me, just text me via email. I will respond as soon as possible If I want.
-Main e-Mail ➜  vinitka@duck.com
-Alternative  ➜  vinitka@proton.me
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitkanov&theme=github_dark" alt="Vinitka's GitHub Stats"/>
