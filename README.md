@@ -1,4 +1,4 @@
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGh1ODR4a2p1NDRxbW4zZDRveXFkNndtbzZ5NXA2MXQxMzdkaHZjeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FL2W8uChXMEjS/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGh1ODR4a2p1NDRxbW4zZDRveXFkNndtbzZ5NXA2MXQxMzdkaHZjeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FL2W8uChXMEjS/giphy.gif" />
 
 # Vinitka Yeshynovka 🎀
 
