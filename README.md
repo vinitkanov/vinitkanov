@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U0YWw3eHNkdHM5ODRreDd6ejV2MzJ3aGIxbmIyZmo0MnU5bnF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif" alt="Cute Coding GIF"/>
+</div>
 
 # Vinitka Yeshynovka 🎀
 
