@@ -1,6 +1,4 @@
-
-<div class="tenor-gif-embed" data-postid="17584368427243518157" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/fate-fate-stay-night-unlimited-blade-works-ubw-rin-tohsaka-gif-17584368427243518157">Fate Fate Stay Night GIF</a>from <a href="https://tenor.com/search/fate-gifs">Fate GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  
+<img src="https://tenor.com/view/fate-fate-stay-night-unlimited-blade-works-ubw-rin-tohsaka-gif-17584368427243518157" />
 
 # Vinitka Yeshynovka 🎀
 
