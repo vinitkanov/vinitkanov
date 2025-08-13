@@ -1,5 +1,6 @@
-<div align="center">
+<div align="center flex">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVuZWttc3JhcGE4czFxZW9pNHltM3ZwcDM2eGFpbTFhZ3dhMGhzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" alt="Cute Coding GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JrcHc5OW5od21zcnV6cnp3d3Z0b3lpYXh3cm4wdXd3NXVweHFpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzNgRSTf9X1e/giphy.gif" alt="Cute Coding GIF"/>
 </div>
 
 # Vinitka Yeshynovka 🎀
