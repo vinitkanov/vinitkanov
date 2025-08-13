@@ -6,7 +6,9 @@ I’m a junior developer with hands-on experience in full-stack web development.
 
 Much of my time is spent debugging, compiling, and refining code—ensuring both functionality and performance. I'm deeply committed to improving my development workflow and continuously expanding my skill set. Currently, I’m diving into C++ to strengthen my understanding of low-level programming and broaden my software development capabilities.
 
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitkanov&theme=github_dark" alt="Vinitka's GitHub Stats"/>
+</div>
 
 ## Contact Person >ᴗ<
 
