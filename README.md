@@ -10,6 +10,7 @@ Much of my time is spent debugging, compiling, and refining code—ensuring both
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitkanov&theme=github_dark" alt="Vinitka's GitHub Stats"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVuZWttc3JhcGE4czFxZW9pNHltM3ZwcDM2eGFpbTFhZ3dhMGhzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" alt="Cute Coding GIF"/>
 </div>
 
 ## Contact Person >ᴗ<
